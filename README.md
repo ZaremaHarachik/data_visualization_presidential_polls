@@ -8,7 +8,7 @@ What I Learned:
 
 * Interpreting and presenting insights from data
 
-*Planning future improvements, such as interactive charts or real-time analysis
+* Planning future improvements, such as interactive charts or real-time analysis
 
 Known Issues / Notes:
 
