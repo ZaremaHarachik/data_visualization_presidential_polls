@@ -1,17 +1,27 @@
-Data Visualization – 2016 Presidential Polls – Built visualizations to analyze polling data for Hillary Clinton and Donald Trump in the 2016 U.S. presidential election. 
+# Data Visualization – 2016 Presidential Polls
 
-What I Learned:
+**Author:** Zarema Harachik
 
-* Cleaning and preparing raw data using Python and pandas
+**Tools & Libraries Used:** Python, pandas, matplotlib, seaborn
 
-* Creating meaningful visualizations with matplotlib
+---
 
-* Interpreting and presenting insights from data
+## Project Description
+This project analyzes and visualizes data from the 2016 U.S. presidential polls, focusing on Hillary Clinton and Donald Trump. The goal is to see which candidate is leading by creating clear and meaningful charts.
 
-* Planning future improvements, such as interactive charts or real-time analysis
+---
 
-Known Issues / Notes:
+## Features
+- Import, clean, and prepare polling data
+- Create visualizations to compare candidates
+- Understand trends and insights from the 2016 election data
 
-* Visualizations are currently static and do not include interactive features.
+---
 
-* This project was a learning exercise to strengthen data analysis and visualization skills.
+## How to Run Locally
+1. Clone the repository:
+```bash
+git clone https://github.com/ZaremaHarachik/YOUR-REPO.git
+---
+
+Install dependencies:
