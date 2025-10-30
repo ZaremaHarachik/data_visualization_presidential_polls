@@ -1,6 +1,6 @@
 # Data Visualization – 2016 Presidential Polls
 
-**Author:** Zarema Harachik
+**Author:** Zarema Kharachyk
 
 **Tools & Libraries Used:** Python, pandas, matplotlib, seaborn
 
@@ -21,7 +21,7 @@ This project analyzes and visualizes data from the 2016 U.S. presidential polls,
 ## How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/ZaremaHarachik/YOUR-REPO.git
+git clone https://github.com/ZaremaHarachik/data_visualization_presidential_polls.git
 ---
 
 
