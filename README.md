@@ -1,4 +1,5 @@
 Data Visualization – 2016 Presidential Polls – Built visualizations to analyze polling data for Hillary Clinton and Donald Trump in the 2016 U.S. presidential election. 
+
 What I Learned
 
 Cleaning and preparing raw data using Python and pandas
