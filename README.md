@@ -24,4 +24,4 @@ This project analyzes and visualizes data from the 2016 U.S. presidential polls,
 git clone https://github.com/ZaremaHarachik/YOUR-REPO.git
 ---
 
-Install dependencies:
+
